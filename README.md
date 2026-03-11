@@ -18,5 +18,5 @@ vegan
 credits:
 unflake by goldstein (https://codeberg.org/goldstein/unflake)
 
-license:
+license: WTFPL
 Licensed under the WTFPL (Do What The Fuck You Want To Public License).
