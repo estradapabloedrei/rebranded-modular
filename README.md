@@ -1,4 +1,3 @@
-```text
 rebranded-modular
 minimalist, flat nix environment. pure and reproducible.
 
@@ -14,4 +13,3 @@ all rights and credits to: pabloestrada (https://gitea.com/pabloestrada)
 
 license:
 this work is published under the wtfpl – do what the fuck you want to public license.
-```
