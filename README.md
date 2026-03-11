@@ -2,7 +2,7 @@ minimalist, flat nix environment. pure and reproducible, for you to modify and b
 
 commands (local):
 
-\`\`\`curl -L https://github.com/estradapabloedrei/rebranded-modular/archive/main.tar.gz | tar -xz --strip-components=1\`\`\`
+curl -L https://github.com/estradapabloedrei/rebranded-modular/archive/main.tar.gz | tar -xz --strip-components=1
 
 - aims to be 100% of the following :
 reproducible
