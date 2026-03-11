@@ -19,4 +19,4 @@ credits:
 unflake by goldstein (https://codeberg.org/goldstein/unflake)
 
 license:
-this work is published under the wtfpl – do what the fuck you want to public license.
+Licensed under the WTFPL (Do What The Fuck You Want To Public License).
