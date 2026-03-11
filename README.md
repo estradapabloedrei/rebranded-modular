@@ -14,13 +14,4 @@ curl -L https://github.com/estradapabloedrei/rebranded-modular/archive/main.tar.
 # all rights and credits to: pabloestrada (https://gitea.com/pabloestrada)
 
 ## license
- \_______
-< wtfpl >
- -------
-      \                    / \  //       \    |\___/|      /   \//  \
-            /0  0  \__  /    //  | \            /     /  \/_/    //   |  \             @_^_@'/   \/_    //    |   \              //_^_/      \/_ //     |    \            ( //) |         \///      |     \           ( / /) _|_ /    )  //        |      \     _    ( // /) '/,_ _ _/  ( ; -.     |    _ _\.-~        .-~~~^-.
-  (( / / )) ,-{        _        ^-_
-                  ///-._ _ _ _ _ _ _}^ - - - - ~                      ~-- ,.-~
-                                                                       /.-~
-
-this work is published under the wtfpl – do what the fuck you want to public license.
+# this work is published under the wtfpl – do what the fuck you want to public license.
